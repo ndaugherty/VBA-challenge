@@ -1,4 +1,4 @@
-https://github.com/thaychansy/vba/blob/main/tickerStock.vbs
+
 
 Sub tickerStock()
 
